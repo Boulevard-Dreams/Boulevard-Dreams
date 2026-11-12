@@ -1,4 +1,4 @@
-# Pratyush Vaibhav
+# Pratyush Shakti Vaibhav
 
 I audit manual back-office processes at small B2B businesses and build AI agents and n8n and Make workflows that remove the repetitive steps. Co-founder of Ariadys AI LLP, based in India.
 
